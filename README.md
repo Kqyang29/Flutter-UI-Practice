@@ -1,6 +1,7 @@
-# practice
-
-A new Flutter project.
+# UI Practice
+  - Swiper 
+    - https://github.com/best-flutter/flutter_swiper/blob/master/README-ZH.md#%E5%88%86%E9%A1%B5%E6%8C%87%E7%A4%BA%E5%99%A8
+  - ListView scroll LRUD to browser the list
 
 ## Getting Started
 
