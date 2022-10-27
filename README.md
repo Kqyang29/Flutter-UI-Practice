@@ -7,9 +7,9 @@
     - click the bottom, the window coming out from bottom of screen
     - 点击按钮，屏幕下弹出弹窗，里面可以写内容
   - Checkbox with Card widget
-   - 以卡组的形式，卡片右侧有个勾选框
+    - 以卡组的形式，卡片右侧有个勾选框
   - Switch Button
-   - 开关按钮，滑动点击按钮
+    - 开关按钮，滑动点击按钮
     
 
 
